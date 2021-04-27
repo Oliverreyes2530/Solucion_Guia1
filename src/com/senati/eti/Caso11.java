@@ -8,7 +8,7 @@ public class Caso11 {
 		// TODO Auto-generated method stub
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Ingrese nombre: ");
+        System.out.println("Ingrese nombre del personal: ");
         String nombre = sc.nextLine();
         
         System.out.println("Resultados");
